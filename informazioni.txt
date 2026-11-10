@@ -1,0 +1,7 @@
+ORARI LUOGO MODALITA PARTECIPAZIONE
+-orari: 
+    dalle 14 alle 18 di ogni venerdì
+-luogo: 
+    scuola iis del pozzo
+-modalita di partecipazione: 
+    iscrizione volontaria il mese prima

@@ -1,6 +1,10 @@
 ORARI LUOGO MODALITA PARTECIPAZIONE
 -orari: 
+<<<<<<< HEAD
     dalle 14.30 alle 18 di ogni venerdì
+=======
+    dalle 15 alle 18 di ogni venerdì
+>>>>>>> orario-alternativo
 -luogo: 
     scuola iis del pozzo
 -modalita di partecipazione: 
